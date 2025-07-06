@@ -18,8 +18,8 @@ A Flutter application showcasing a drinks menu with animated transitions and spl
 ## Screenshots
 
 ![Splash Screen](assets/screenShots/splash.png)
-![Home Screen](aassets/screenShots/home.png)
-![animtaedHome Screen](aassets/screenShots/animtaedHome.png)
+![Home Screen](assets/screenShots/home.png)
+![animtaedHome Screen](assets/screenShots/animtaedHome.png)
 ![drinkDetails Screen](assets/screenShots/drinkDetails.png)
 
 ## Project Structure
